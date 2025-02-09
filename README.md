@@ -1,1 +1,2 @@
 # -Supply-Chain-Management-Dashboard
+This project analyzes supply chain data to gain insights into sales, defects, supplier performance, and shipping efficiency using Power BI. Key insights include total sales trends, defect rates, and supplier quality analysis. Interactive slicers allow filtering by product category, supplier, and shipping mode. The dashboard helps identify quality issues, optimize supplier selection, and improve logistics. Built using Power BI, DAX, and Excel, this project can be expanded with predictive analytics and real-time data integration.
